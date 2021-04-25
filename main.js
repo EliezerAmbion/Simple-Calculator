@@ -53,4 +53,4 @@ function calculate(firstNumber, operator, secondNumber) {
   if (operator === 'divide') return firstNumber / secondNumber;
 }
 
-console.log('this is to test if it is working');
+console.log('is it working?');
